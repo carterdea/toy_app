@@ -30,7 +30,7 @@ group :development, :test do
   gem 'sqlite3'
   gem 'better_errors'
   gem 'byebug'
-  gem 'web-console', '~> 2.0'
+  gem 'web-console', '~> 2.1'
   gem 'spring'
 end
 
